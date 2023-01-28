@@ -1,0 +1,9 @@
+[submodule "sram"]
+	path = sram
+	url = https://github.com/petrkr/micropython-sram
+[submodule "sc16is7xx"]
+	path = sc16is7xx
+	url = https://github.com/petrkr/micropython-sc16is7xx
+[submodule "ndeflib"]
+	path = ndeflib
+	url = https://github.com/petrkr/micropython-ndeflib
